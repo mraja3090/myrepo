@@ -1,1 +1,2 @@
 to check auto commit
+second commit
